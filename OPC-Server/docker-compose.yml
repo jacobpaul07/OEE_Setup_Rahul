@@ -1,0 +1,8 @@
+version: '3'
+services:
+  opcserver:
+    image: "siqsessedge/opcuaserver:v1.6.1"
+    ports:
+      - "8082:8081"
+      - "122:122"
+    restart: always

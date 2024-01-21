@@ -1,0 +1,86 @@
+[
+    {
+        "DownCode": "200",
+        "DownCodeReason": "Holiday",
+        "Threshold": "0",
+        "Category": "Planned DownTime",
+        "color": "#191970"
+    },
+    {
+        "DownCode": "201",
+        "DownCodeReason": "Lunch Break",
+        "Threshold": "30",
+        "Category": "Planned DownTime",
+        "color": "#D2691E"
+    },
+    {
+        "DownCode": "202",
+        "DownCodeReason": "Tea Break",
+        "Threshold": "15",
+        "Category": "Planned DownTime",
+        "color": "#F8425F"
+    },
+    {
+        "DownCode": "203",
+        "DownCodeReason": "No Shift Plan",
+        "Threshold": "0",
+        "Category": "Planned DownTime",
+        "color": "#778899"
+    },
+    {
+        "DownCode": "204",
+        "DownCodeReason": "Electrical BreakDown",
+        "Threshold": "0",
+        "Category": "UnPlanned DownTime",
+        "color": "#C71585"
+    },
+    {
+        "DownCode": "205",
+        "DownCodeReason": "Mechanical Breakdown",
+        "Threshold": "0",
+        "Category": "UnPlanned DownTime",
+        "color": "#FF6347"
+    },
+    {
+        "DownCode": "206",
+        "DownCodeReason": "Waiting for Material",
+        "Threshold": "0",
+        "Category": "UnPlanned DownTime",
+        "color": "#00CED1"
+    },
+    {
+        "DownCode": "207",
+        "DownCodeReason": "Machine Cleaning",
+        "Threshold": "0",
+        "Category": "UnPlanned DownTime",
+        "color": "#808000"
+    },
+    {
+        "DownCode": "208",
+        "DownCodeReason": "No Man Power",
+        "Threshold": "0",
+        "Category": "UnPlanned DownTime",
+        "color": "#FF4500"
+    },
+    {
+        "DownCode": "107",
+        "DownCodeReason": "107 EMERGENCY STOP",
+        "Threshold": "0",
+        "Category": "UnPlanned DownTime",
+        "color": "#8B0000"
+    },
+    {
+        "DownCode": "10",
+        "DownCodeReason": "Test Stop",
+        "Threshold": "0",
+        "Category": "UnPlanned DownTime",
+        "color": "#8B0000"
+    },
+    {
+        "DownCode": "100",
+        "DownCodeReason": "STAND BY",
+        "Threshold": "0",
+        "Category": "Planned DownTime",
+        "color": "#FF8000"
+    }
+]
