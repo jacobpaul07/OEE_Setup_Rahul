@@ -1,15 +1,15 @@
 #!/bin/bash
 
 # jq install for json update -> jq for json file update
-# sudo apt-get install jq -y in
+sudo apt-get install jq -y in
 
-# yq install for yaml update -> yq for yaml file update
+# yq isnstall for yaml update -> yq for yaml file update
 VERSION=v4.21.1
-# BINARY=yq_linux_amd64
+BINARY=yq_linux_amd64
 
-# wget https://github.com/mikefarah/yq/releases/download/${VERSION}/${BINARY}.tar.gz -O - |\
-#   tar xz && mv ${BINARY} /usr/bin/yq
-# sudo chmod +x /usr/bin/yq
+wget https://github.com/mikefarah/yq/releases/download/${VERSION}/${BINARY}.tar.gz -O - |\
+  tar xz && mv ${BINARY} /usr/bin/yq
+sudo chmod +x /usr/bin/yq
 
 
 echo "Select Cloud or Edge Application"

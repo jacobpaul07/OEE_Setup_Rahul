@@ -1,8 +1,8 @@
 version: '3'
 services:
   backend:
-    # image: "siqsessedge/cnc-api:CNC-v9.2"
-    image: "siqsessedge/cnc-api:mac-m1"
+    image: "siqsessedge/cnc-api:CNC-v9.2"
+    # image: "siqsessedge/cnc-api:mac-m1"
 
     container_name: "oee_backend"
     environment:
