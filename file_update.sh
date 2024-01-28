@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # jq install for json update -> jq for json file update
-sudo apt-get install jq -y in
+sudo apt-get install jq -y
 
 # yq isnstall for yaml update -> yq for yaml file update
 VERSION=v4.21.1
